@@ -54,4 +54,4 @@ jobs:
           app-name: 'VortexDeCode'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6DA5182ABF4B41268418388B23E5A9BC }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9160B58BF5464F8CAA141498AB6E52A7 }}
